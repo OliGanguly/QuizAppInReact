@@ -1,0 +1,19 @@
+.quiz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.subTitle{
+    font-size: 25px;
+    box-shadow: 0px 0px 5px 0px rgb(197, 173, 173);
+     padding: 5px 10px;
+     margin-top: 10px;
+     text-align: center;
+}
+.quizinfo{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding:10px 10px;
+}
